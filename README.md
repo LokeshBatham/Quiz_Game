@@ -1,1 +1,1 @@
-# Quiz_Game
+# Computer_Science_Quiz_Game
